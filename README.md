@@ -8,6 +8,9 @@
 > [!NOTE] 
 > 請自行設定 include path。
 
+> [!NOTE] 
+> 撰寫期間曾多次修改過 ImgProc 庫，故部分的程式碼有可能無法執行。請自行修改並歡迎提交 Pull Requests。
+
 ## TOC
 - HW1
   - Practice1: Image synthesis
