@@ -1,0 +1,3 @@
+[submodule "Image-Processing"]
+	path = Image-Processing
+	url = https://github.com/yappy2000d/Image-Processing.git
